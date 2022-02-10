@@ -1,3 +1,3 @@
 # chia-with-cloyvr
 
-# Make something cool
+# Make something cool. Yes.
